@@ -1,0 +1,7 @@
+#N canvas 335 33 820 576 10;
+#X obj 53 47 grid grid2 200 0 199 200 0 199 1 1 1 10 10 149 145;
+#X obj 277 48 grid grid3 200 0 199 200 0 199 1 1 1 10 10 19 -315;
+#X obj 499 51 grid grid4 200 0 199 200 0 199 1 1 1 10 10 100 -332;
+#X text 119 19 YOU;
+#X text 324 21 SPEAKER (LEFT);
+#X text 550 24 SPEAKER (RIGHT);
