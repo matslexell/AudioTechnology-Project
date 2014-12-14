@@ -1,6 +1,7 @@
 *.out
 *.class
 *.wav
+*.png
 
 # ============ #
 # OS generated #
