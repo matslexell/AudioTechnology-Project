@@ -1,7 +1,5 @@
 *.out
 *.class
-*.wav
-*.png
 
 # ============ #
 # OS generated #
@@ -15,3 +13,11 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+
+
+# ===================== #
+# Typically large files #
+# ===================== #
+
+*.png
+*.wav
