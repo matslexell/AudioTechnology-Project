@@ -1,1 +1,3 @@
-Project for AudioTechnology
+Project for AudioTechnology:
+
+This is a system that simulates listening to speakers using headphones. The system responds to head movements and pans/filters accordingly for realistic simulations. Use an android device, the app "andOSC" and follow the instructions in the "Main.pd"-patch and you can try the system out!
