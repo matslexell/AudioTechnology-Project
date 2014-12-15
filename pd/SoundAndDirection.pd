@@ -107,6 +107,10 @@
 #X obj 80 45 inlet;
 #X obj 226 143 100 90 50 70;
 #X obj 226 118 100 95 60 80;
+#X obj 297 15 r v;
+#X obj 329 15 r b;
+#X obj 359 16 r m;
+#X obj 389 18 r h;
 #X connect 0 0 14 0;
 #X connect 0 1 13 0;
 #X connect 0 2 10 0;
@@ -125,3 +129,7 @@
 #X connect 16 0 9 0;
 #X connect 17 0 0 5;
 #X connect 18 0 0 4;
+#X connect 19 0 6 0;
+#X connect 20 0 5 0;
+#X connect 21 0 18 0;
+#X connect 22 0 17 0;
